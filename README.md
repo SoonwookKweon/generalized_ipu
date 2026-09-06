@@ -95,7 +95,7 @@ pip install -e .[dev]
 pytest
 ```
 
-사용법은 [`examples/01_기본_사용법.ipynb`](examples/01_기본_사용법.ipynb) 에서 확인한다.
+사용법은 [`examples/01_기본_사용법.ipynb`](examples/01_기본_사용법.ipynb) 에서 확인한다. 표본 미시 자료 없이 공표된 집계표만으로 시작하는 절차는 [`examples/02_집계자료만으로_시작하기.ipynb`](examples/02_집계자료만으로_시작하기.ipynb) 에서 다룬다.
 
 ---
 
